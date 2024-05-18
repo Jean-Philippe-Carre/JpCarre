@@ -1,0 +1,40 @@
+/* selector{
+    property: value ;
+} */
+* {
+    color: blue;
+}
+
+footer p {
+    background-color: red;
+}
+
+h1+h4 {
+    /* background-color: blue; */
+}
+
+ul>li {
+    /* background-color: blue; */
+}
+
+li {
+    /* background-color: blue; */
+}
+
+button {
+    background-color: red;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+button {
+    color: white;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color:green;
+}
