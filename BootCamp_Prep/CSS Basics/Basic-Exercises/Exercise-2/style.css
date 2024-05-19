@@ -1,0 +1,22 @@
+* {
+    font-family: verdana, "DejaVu Sans", sans-serif;
+}
+
+.redbg {
+    background-color: #ffc0cb;
+}
+
+#unique {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#unique2 {
+    background-color: #c3e98a;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#unique+p {
+    font-size: 24px;
+}

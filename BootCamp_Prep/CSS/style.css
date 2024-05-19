@@ -6,11 +6,7 @@
 }
 
 footer p {
-    background-color: red;
-}
-
-h1+h4 {
-    /* background-color: blue; */
+    background-color: aqua;
 }
 
 ul>li {
@@ -22,7 +18,7 @@ li {
 }
 
 button {
-    background-color: red;
+    background-color: purple;
 }
 
 button:hover {
@@ -31,10 +27,43 @@ button:hover {
 
 button {
     color: white;
+
 }
+
 a:visited {
     color: red;
 }
+
 a:hover {
-    color:green;
+    color: green;
+}
+
+.para1 {
+    border: 4px solid;
+}
+
+.para2 {
+    border: 2px solid;
+}
+
+
+.date {
+    color: red;
+}
+
+div {
+    background-image: linear-gradient(aqua, white);
+}
+
+#parahover {
+    transition: width 2s;
+    transition-timing-function: ease-in-out;
+}
+
+#parahover:hover {
+    width: 500px;
+}
+
+h4 {
+    text-shadow: 2px 2px 8px black;
 }
