@@ -1,0 +1,42 @@
+#bluecolor {
+    color: blue;
+}
+
+.div1 {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#para1 {
+    background-color: pink;
+    color: white;
+}
+
+#para2 {
+    background-color: #b0dff0;
+    margin: 20px;
+    padding: 10px;
+}
+
+.greybox {
+    background-color: #c0b8b8;
+    width: 400px;
+    height: 150px;
+    border: solid;
+    border-color: #6c6969;
+}
+
+.bluebox {
+    background-color: #97c1e8;
+    width: 100px;
+    height: 100px;
+}
+
+.orangebox {
+    background-color: #e68b36;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 90px;
+    left: 10px;
+}
