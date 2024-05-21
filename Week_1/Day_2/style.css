@@ -1,0 +1,101 @@
+#italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#underline {
+    text-decoration: underline;
+
+}
+
+.list {
+    padding-left: 100px;
+}
+
+.multiple {
+    font-weight: bold;
+    text-decoration: underline;
+    padding-left: 60px;
+}
+
+.mediatitle {
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    width: 700px;
+    object-position: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+
+}
+
+#box1 {
+    border: solid;
+    width: 800px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#red {
+    color: red;
+
+}
+
+#leftdiv {
+    border: solid;
+    width: 395px;
+    margin-left: 345px;
+
+}
+
+#rightdiv {
+    border: solid;
+    width: 395px;
+
+}
+
+#leftdiv,
+#rightdiv {
+    display: inline-block;
+    text-align: center;
+
+}
+
+#leftp {
+    border: solid;
+    width: 395px;
+    margin-left: 345px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+#rightp {
+    border: solid;
+    width: 395px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+#leftp,
+#rightp {
+    display: inline-block;
+    text-align: center;
+}
+
+#backbutton {
+    text-align: center;
+}
