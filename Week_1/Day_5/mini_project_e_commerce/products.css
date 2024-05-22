@@ -48,6 +48,16 @@ p {
     margin-top: 75px;
 }
 
+#image:hover .new {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 7px rgb(161, 157, 157);
+}
+
+#image:hover .dis {
+    transform: scale(1.1);
+    box-shadow: 5px 5px 7px rgb(161, 157, 157);
+}
+
 #image:hover {
     box-shadow: 10px 10px 20px rgb(161, 157, 157);
     transform: scale(1.1);
