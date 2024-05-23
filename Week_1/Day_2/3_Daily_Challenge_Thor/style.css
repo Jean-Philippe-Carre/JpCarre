@@ -1,0 +1,51 @@
+.nav {
+    background-color: black;
+    height: 150px;
+}
+
+.logo {
+    width: 80px;
+    height: 80px;
+    margin-top: 35px;
+    margin-left: 75px;
+}
+
+ul {
+    color: white;
+    list-style-type: none;
+    float: right;
+    font-family: verdana;
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 75px;
+    margin-top: 55px;
+}
+
+li {
+    display: inline;
+    padding: 30px;
+}
+
+img {
+    width: 1495px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.name {
+    position: relative;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-family: verdana;
+    position: absolute;
+}
+
+p {
+    position: absolute;
+}
