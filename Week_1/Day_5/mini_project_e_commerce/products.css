@@ -1,6 +1,7 @@
 #navbar {
     background-color: #e4dddd;
     height: 100px;
+    /* Position: fixed; */
 }
 
 #image {
@@ -43,7 +44,7 @@ p {
 }
 
 .parentdiv {
-    display: flex;
+    /* display: flex; */
     justify-content: center;
     margin-top: 75px;
 }

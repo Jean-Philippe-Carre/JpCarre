@@ -1,0 +1,172 @@
+.headerdiv {
+    height: 120px;
+    position: relative;
+    background-color: rgb(217, 241, 241);
+}
+
+.icon {
+    position: absolute;
+    /* background-color: red; */
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+.icontext {
+    font-size: 20px;
+    font-family: verdana;
+    color: rgb(91, 91, 216);
+    /* text-shadow: 1px 1px 10px blue; */
+}
+
+.button {
+    background-color: #24a0ed;
+    float: right;
+    margin-top: 35px;
+    margin-right: 100px;
+    font-size: 15px;
+    font-family: verdana;
+    /* border-radius: 13%; */
+    padding: 10px 27px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.button:hover {
+    transform: scale(1.1);
+    transition: transform 0.4s;
+}
+
+.maindiv {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 100%;
+    height: 500px;
+}
+
+.maincontainerdiv {
+    height: 400px;
+    width: 700px;
+    /* background-color: beige; */
+    position: absolute;
+
+}
+
+.maincontentupperdiv {
+    /* background-color: #9898e3; */
+    height: 175px;
+    width: 600px;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    padding-top: 45px;
+}
+
+.quote {
+    font-size: 31px;
+    font-family: verdana;
+}
+
+
+.maincontentlowerdiv {
+    /* background-color: #6e6ebe; */
+    height: 90px;
+    width: 600px;
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.textinput {
+    /* font-size: 20px; */
+    width: 200px;
+    height: 20px;
+    margin-top: 30px;
+}
+
+.signin {
+    background-color: #24a0ed;
+    border: none;
+    height: 20px;
+    color: white;
+}
+
+.signin:hover {
+    transform: scale(1.1);
+    transition: transform 0.4s;
+}
+
+.footerdiv {
+    height: 300px;
+    /* background-color: rgb(217, 241, 241); */
+    /* display: inline; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.footerleftdiv {
+    /* background-color: red; */
+    width: 300px;
+    height: 200px;
+    margin-top: 80px;
+    text-align: center;
+    font-family: verdana;
+    transition: transform 0.5s;
+}
+
+.computer {
+    width: 60px;
+    height: 55px;
+}
+
+.footerleftdiv:hover {
+    transform: scale(1.2);
+}
+
+.footermiddlediv {
+    /* background-color: #ecdbdb; */
+    width: 300px;
+    height: 200px;
+    margin-top: 80px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-align: center;
+    font-family: verdana;
+    transition: transform 0.5s;
+}
+
+.database {
+    width: 60px;
+    height: 55px;
+}
+
+.footermiddlediv:hover {
+    transform: scale(1.2);
+}
+
+.footerrightdiv {
+    /* background-color: black; */
+    width: 300px;
+    height: 200px;
+    margin-top: 80px;
+    text-align: center;
+    font-family: verdana;
+    transition: transform 0.5s;
+}
+
+.check {
+    width: 60px;
+    height: 55px;
+}
+
+.footerrightdiv:hover {
+    transform: scale(1.2);
+}
