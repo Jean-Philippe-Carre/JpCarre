@@ -35,17 +35,22 @@ a {
     color: white;
 }
 
-.name {
-    position: relative;
-
-}
-
 h1 {
     font-size: 60px;
     font-family: verdana;
-    position: absolute;
+    margin-top: -400px;
+    color: white;
+    padding-left: 20px;
 }
 
+
 p {
-    position: absolute;
+    color: white;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.desc {
+    width: 600px;
+
 }
