@@ -1,0 +1,42 @@
+.bg {
+    background-image: url(images/model.png);
+    background-size: 100% 100%;
+}
+
+.nav {
+    margin-left: 200px;
+    margin-right: 100px;
+
+}
+
+.navbar-nav {
+    margin-left: auto;
+
+}
+
+.row {
+    margin-top: 50px;
+}
+
+.navbar-nav li a {
+    color: white;
+
+}
+
+a {
+    color: white;
+    font-weight: bold;
+
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.overlay-div {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: #000;
+    opacity: .2;
+}
