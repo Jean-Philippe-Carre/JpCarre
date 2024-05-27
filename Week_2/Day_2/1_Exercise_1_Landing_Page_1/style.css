@@ -1,0 +1,12 @@
+.flexbox {
+    display: flex;
+    width: 100%;
+    /* flex-direction: row-reverse; */
+    /* (reverse direction of the rows) // same for column-reverse */
+    flex-wrap: wrap;
+}
+
+.top {
+    background-color: grey;
+    width: 100%;
+}
