@@ -1,0 +1,25 @@
+body {
+    height: 2000px;
+}
+
+.bg-img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    filter: brightness(0.5);
+    position: absolute;
+}
+
+.jumbotron {
+    position: absolute;
+}
+
+
+
+
+
+
+
+/* .column {
+    border-right: 1px solid #333;
+} */
