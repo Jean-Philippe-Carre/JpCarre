@@ -16,7 +16,7 @@ print(f"\n Number of sentences in paragraph: {v}")
 # Number of words
 words = paragraph.split()
 count = len(words)
-print('\n Number of words in paragraph:',count)
+print('\n Number of words in paragraph:',count,'\n')
 	
 # Number of unique words
 # from collections import Counter
