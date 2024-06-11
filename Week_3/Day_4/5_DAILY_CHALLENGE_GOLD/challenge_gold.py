@@ -1,4 +1,4 @@
 
 user_input = input('\n Enter your birthdate (DD/MM/YYYY): ')
-print(user_input)
+print('\n',user_input,'\n')
 
