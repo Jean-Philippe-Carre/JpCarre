@@ -1,0 +1,87 @@
+.bg-img {
+  background-image: url("/static/images/model.png");
+  width: 100vw;
+  height: 88vh;
+  object-fit: cover;
+  filter: brightness(0.6);
+  position: absolute;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  height: 88vh;
+}
+
+.row2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+body {
+  height: 1200px;
+}
+
+.text-align {
+  text-align: center;
+}
+
+.maintextdiv {
+  width: 100vw;
+  height: 88vh;
+  position: absolute;
+}
+
+.navbar-brand {
+  padding-left: 75px;
+}
+
+.navbar-nav {
+  padding-right: 75px;
+}
+
+.maintext {
+  font-size: 40px;
+}
+
+em {
+  color: red;
+}
+
+.btn {
+  border-radius: 0%;
+  height: 65px;
+  width: 180px;
+  padding-top: 18px;
+  margin-right: 10px;
+}
+
+.btn-primary:hover {
+  filter: brightness(0.8);
+}
+
+.links {
+  text-decoration: none;
+}
+
+h5 {
+  padding-bottom: 20px;
+  padding-top: 40px;
+}
+
+p {
+  padding-bottom: 20px;
+}
+
+i {
+  font-size: 50px;
+}
+
+.hover {
+  transition: 0.8s;
+}
+
+.hover:hover {
+  transform: scale(1.1);
+}
